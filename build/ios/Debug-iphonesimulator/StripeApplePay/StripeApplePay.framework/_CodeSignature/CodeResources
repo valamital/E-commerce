@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/StripeApplePay.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		/HvprAOmrg2ajcQgiXMTRFF4CEs=
+		O9XhsU+VpWZVB+qrwxOGU1AQ6f8=
 		</data>
 		<key>Modules/StripeApplePay.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		s6y9gBMhYSna1FVtFYT16Q4buqo=
+		iDI8OoIDpXkyAghIWQUGs/Xe5m4=
 		</data>
 		<key>Modules/StripeApplePay.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/StripeApplePay.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XnI3MyB8P4LWkHvppApHD71P77w=
+		Sg7c22l2zvY9bj0YFJASfk+2XZI=
 		</data>
 		<key>Modules/StripeApplePay.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/StripeApplePay.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hl5IA1eAVa1vRlxfEEaY1PayZf4=
+		anpBxOJkkfGjWgch1eMU2jmRPmg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,14 +73,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bo0Ke78xrWZ6V3EjhgWr83JUNlwfbvz7IGrsFg7TjqI=
+			mcYWg5M1zuycx1PQizjxkKGP4gWIA16lrznIBMfNQ18=
 			</data>
 		</dict>
 		<key>Modules/StripeApplePay.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Et1t5X6n7iUbEL3wX4fyLdcsTSTLnq+kUFtzGTwLLCM=
+			osJY/BZBu1FnfJvwhVakOpV0pS2MvvSWt4hmmAWzGVY=
 			</data>
 		</dict>
 		<key>Modules/StripeApplePay.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			deViQCmjAxSYJ7jO6N53foCsRRsYtOBhFASDKms+Plg=
+			z6HDN3GRHjionRradt2/l6Yr+r9meftYPDDjZWAfJHE=
 			</data>
 		</dict>
 		<key>Modules/StripeApplePay.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4jF1Ch2RCVVgJyWYCqVTwtq08D0tC2/B0S7ZQG9eBw4=
+			y5FH7HuUlK085OUTUF2nRWUxHvzhgnkvQJcp70qwA0Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

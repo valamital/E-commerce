@@ -273,6 +273,8 @@ class CartPage extends StatelessWidget {
     );
   }
 
+  ///Please make sure you add your stripe secret key inside assigned path
+
   Future<void> makePayment(String total) async {
     try {
       paymentIntent = await createPaymentIntent(total, 'USD');

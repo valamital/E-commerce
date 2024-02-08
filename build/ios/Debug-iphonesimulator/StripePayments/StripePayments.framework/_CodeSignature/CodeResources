@@ -406,11 +406,11 @@
 		</data>
 		<key>Modules/StripePayments.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		702xv/3zVYQ9iPiqnyFujMP6JA0=
+		hkJhMVsDDMSsQY6vAf+dZhSeXAA=
 		</data>
 		<key>Modules/StripePayments.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ER8CcusH8eZvk5kRokx0cV9Nx1g=
+		/51LzHXz0Yc3Cc7gJhDKMqIHKvg=
 		</data>
 		<key>Modules/StripePayments.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -422,7 +422,7 @@
 		</data>
 		<key>Modules/StripePayments.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Al2cn6GIXQKAu1Ly33PtXusNfOg=
+		a4CuhdNkbTsdGyZErJrAJp7oNT8=
 		</data>
 		<key>Modules/StripePayments.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -434,7 +434,7 @@
 		</data>
 		<key>Modules/StripePayments.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SFyKYVRLFiTDg/Munx05Nl1Vv9w=
+		oKg6KKG1OboD2MQsFgfvu86fwT8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1899,14 +1899,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gBZTEhacrsMfFLDub6hfdDMaQ80znbni3rjarSME7Xc=
+			ZofdwdGQfeK9H0mA+QrD4SrmeONG5T4b++jqwsU4aeY=
 			</data>
 		</dict>
 		<key>Modules/StripePayments.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GT/ck5ly+vNWKStJ03xwFpxNumEbLWSg4MDklk1FPoc=
+			tHWhlbH2/E9ax1mhDR5DLsYd/PAMk00JstJqscCAXFo=
 			</data>
 		</dict>
 		<key>Modules/StripePayments.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -1927,7 +1927,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kc23Qv03usoS2fK+njTDunbNThNVy9Am4nJU+R0UfWs=
+			cH/+Rm/tH2EzYGo/JWHqYPxvK54wzNXb3Twaz36YMxE=
 			</data>
 		</dict>
 		<key>Modules/StripePayments.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1948,7 +1948,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hmyexWscgsIK1VwKMsVWH7AdZFgTMMeLpJsaHPUNeEo=
+			FkNSngcOvSDgVaF/CUq72k5NS5hXjMujjnfx7cLiTdY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

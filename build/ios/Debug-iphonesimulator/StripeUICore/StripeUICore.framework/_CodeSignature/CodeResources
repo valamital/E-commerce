@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/StripeUICore.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		neP2sZuwLHNHRNtb0p8k8v2+1Io=
+		SopeXG26Fpw7V7ml+C/4qY1b9QU=
 		</data>
 		<key>Modules/StripeUICore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		zUOgUr+rlfjynI3wpNuolUQe0nw=
+		W9pP46gB8QNDbk2YKnb2sEvhpo4=
 		</data>
 		<key>Modules/StripeUICore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/StripeUICore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		O5uJXcSC+/w9pCuPHsm3B77Mi+k=
+		lfh/w2n8//JjMWyO44z1kWy0Kqk=
 		</data>
 		<key>Modules/StripeUICore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/StripeUICore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wlwaAMyv912H7bVf8KJ+wqe4mZo=
+		ljBgC4asOpJFGjJMqIxT3C9w7Sw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>StripeUICore.bundle/Assets.car</key>
 		<data>
-		I5FDBsS8Ghgjt+xXIYtZJYtW9kU=
+		IpxTzMqhzn3FS0yXrM7W9VquUR4=
 		</data>
 		<key>StripeUICore.bundle/Info.plist</key>
 		<data>
@@ -458,14 +458,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E1YhGJ2o3ZBxrcrB12SUqNO88JG+bhYtXY6mFXubiIE=
+			MAhZo7EQOQdGrmbnl4QMz7wIFWgyGQ5qZXItKOTZXAU=
 			</data>
 		</dict>
 		<key>Modules/StripeUICore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a1lYSO6ID+haTiMtcxSKc83oVPlsUdsGOX5/opvSbvI=
+			Kw0i+6Mto/A/NW6YROg91Gu830RK/0E0kNYaug43Ifs=
 			</data>
 		</dict>
 		<key>Modules/StripeUICore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -486,7 +486,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3dFZU07r4ZhRW8y+qcD6cYWv1atKeqWa4vXVtIkXnG8=
+			aTyf9Xepk65i9AGdfEAe15MVSfk3fcNqh0MGJkcENzs=
 			</data>
 		</dict>
 		<key>Modules/StripeUICore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -507,7 +507,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			397LDHjRXcMUcBmYBmJcQpTfJE1/qc22N9tE9LUPt+w=
+			DYpzK60qzqdfRymPf8cVFarRuqIdLyeSHCqoHrPD92w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -521,7 +521,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/2yr784pbYpk+B/Hk5+yJqOxKXqojCQENxH+OhE8WE=
+			c917UzzOYrUSaNQTeWe3yNB5HEJp8G+6fx1N9Bpp/qk=
 			</data>
 		</dict>
 		<key>StripeUICore.bundle/Info.plist</key>

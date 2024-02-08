@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		0uNE+2V5ndqZV8zRpi3C3kJfguU=
+		tiyOesQd8xMbW2k8qba7M3yb3kg=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		vUwgetCA4q9O9vhwLZxEUba62Ko=
+		A7gznZiFvqNwR+xj17ruQXVV6bw=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5q3qE7YRhp4j21EmNybwTKMho8M=
+		7ExEe4kG12GTHJvdPFZVZsDQc1Q=
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/NtdhwQL5StPVjOjtTs9aI+0fH8=
+		Uh8IVoDm3DafsIAn/yzwHj2fS5I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>StripePaymentsUI.bundle/Assets.car</key>
 		<data>
-		1uOyihoetGfqQoX4Y8vHEzJjcbQ=
+		HU11l9VwydNAWadxIyFUQHtyvVk=
 		</data>
 		<key>StripePaymentsUI.bundle/Info.plist</key>
 		<data>
@@ -463,14 +463,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			caueJ6FMtCgzyGqOhrGsGDJzEHQgp5OibYVHfJg051U=
+			bvasmdk+GN8R19xXJFatmMlGI3PGCV4T/izD8c9diB4=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MdPY8KpJiLg5+cIJ27uz8YMMdNTrIKr6PBBgYrDPDaU=
+			do/jj6Y+dq84DjWkTp4C171bAUyXwLxfNpUXLPQZMrY=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -491,7 +491,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S0/DqW+vO2DwQ0Di5DiELQoA4F8f7YHrrI2tsfonKok=
+			u7EE2NZ0++8c8HB7Lh2/hC+VkhfY9bDH5lvN104uDJc=
 			</data>
 		</dict>
 		<key>Modules/StripePaymentsUI.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -512,7 +512,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i7k/AioYyKjNdlXwG0eYGEAHYTawtbIGr65taVqoAe4=
+			UtNfYpqPBf1AWIOtO5aiYuSf7xVfMKKHQIsPzmSzGCA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -526,7 +526,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wNIuOtot3TuofDmhzrrYgUAG1vD715t7Ke4mPnWK4Ro=
+			7fNdIKNR1rk2N0/vdYVkuwts/lpc9gXtyI6oT5vXLbE=
 			</data>
 		</dict>
 		<key>StripePaymentsUI.bundle/Info.plist</key>

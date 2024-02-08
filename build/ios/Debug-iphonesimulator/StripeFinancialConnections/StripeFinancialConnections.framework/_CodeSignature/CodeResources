@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		0KrmcxapfgDBDELRKQvJEr+IBqc=
+		xVL8be6pQILB+6zn7hJSyOEq2Hk=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		XfJd/9SJaFyk1VK2df8oBupgJFY=
+		PcpyPWmFjeGYbjK+xUKDXasCMIo=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0EpXL6AL0TMZUEfLPJhbZB7NC2Q=
+		oauBiRpNakaG+WhQ/yNmzE3d7lA=
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1FQjDa6AjRQDpqGOPn1H72bTFlY=
+		xsSrGGMU6kiWToESvbNYgURRkAY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -522,14 +522,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4RYJnznYspSh+pl7U0PGro0vYG4l26h8uCsXTalDUVw=
+			UyEYIKnG/vKuwyYYr99yCSSlbNOSqckFCNiY68x8wDs=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XfXAUn2fjFfD2G+xyhbV9GQguQuC4rQcbB0LTD2MhHs=
+			9+trMumDrYkGQktw8avWIvRdZ1M3+cpQzIFjNSYm6lw=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -550,7 +550,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YtlpByoOcFcgaR/fTPKiClZiTS53nQNVQi8KxVFpieY=
+			3G+unekA5B/eE2q6tkkfTpW66ylFU42Ud2cRX72WBYo=
 			</data>
 		</dict>
 		<key>Modules/StripeFinancialConnections.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -571,7 +571,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldaGLQbfrXXzXFj8r5lv39wZIkRT4p1ZkcORwKRmOEM=
+			UU0ZtVQf4bDqRHKOkdxjmyO6PtSahmnSkJxwFtf/C8M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
