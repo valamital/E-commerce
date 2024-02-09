@@ -5,6 +5,7 @@
 import 'package:get/get_navigation/src/routes/get_route.dart';
 
 import '../presentation/screen/cart/binding/cart_binding.dart';
+import '../presentation/screen/cart/binding/payment_binding.dart';
 import '../presentation/screen/cart/cart_page.dart';
 import '../presentation/screen/dashboard/binding/home_binding.dart';
 import '../presentation/screen/dashboard/home_screen.dart';
@@ -27,6 +28,7 @@ class AppRoutes {
       page: () => CartPage(),
       bindings: [
         cartBinding(),
+        paymentBinding(),
       ],
     ),
     GetPage(
