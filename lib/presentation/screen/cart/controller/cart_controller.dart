@@ -6,8 +6,12 @@ import '../../dashboard/models/item_model.dart';
 
 class CartController extends GetxController {
 
-  final HomePageController homePageController = Get.find<HomePageController>();
-
+  late final HomePageController homePageController;
+  @override
+  void onInit() {
+    super.onInit();
+    homePageController = Get.find<HomePageController>();
+  }
   void removeFromCart(int shopId) {
     homePageController.removeFromCart(shopId);
   }

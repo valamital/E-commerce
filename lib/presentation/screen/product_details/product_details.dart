@@ -98,39 +98,7 @@ class _ItemDetailPageState extends State<ItemDetailPage> {
                                   onTap: controller2.controller.isLoading
                                       ? null
                                       : () async {
-                                          try {
-                                            if (isAddedToCart) {
-                                              controller2.controller
-                                                  .removeFromCart(
-                                                      controller2.model!.id ??
-                                                          0);
-                                              ScaffoldMessenger.of(context)
-                                                  .showSnackBar(
-                                                const SnackBar(
-                                                  content: Text(
-                                                      "Item removed from cart"),
-                                                ),
-                                              );
-                                            } else {
-                                              await controller2.controller
-                                                  .addToCart(
-                                                      controller2.model!);
-                                              controller2.controller
-                                                  .getCardList();
-                                              var showSnackBar =
-                                                  ScaffoldMessenger.of(context)
-                                                      .showSnackBar(
-                                                const SnackBar(
-                                                  content: Text(
-                                                      "Item added to cart"),
-                                                ),
-                                              );
-                                            }
-                                          } catch (e) {
-                                            if (kDebugMode) {
-                                              print(e);
-                                            }
-                                          }
+                                    controller2.addRemoveCartItem(isAddedToCart);
                                         },
                                   icon: isAddedToCart
                                       ? const Icon(Icons.remove_shopping_cart)
@@ -147,7 +115,6 @@ class _ItemDetailPageState extends State<ItemDetailPage> {
               ],
             ),
 
-            // Original content
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 16.0),
               decoration: BoxDecoration(
